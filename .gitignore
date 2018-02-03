@@ -1,7 +1,2 @@
 .idea/
-docs/
-get_data_from_mysql/
-sql/
-src/user_action_per_day.py
-src/config
-
+test/
